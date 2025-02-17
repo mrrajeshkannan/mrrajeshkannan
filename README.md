@@ -8,14 +8,17 @@
 
 🚀 Welcome to my GitHub! 
 
-SQL ETL Expert | Transforming Data into Insights with Precision 🚀
-## 📜 HackerRank Certification  
-![image](https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da)
+## 🏆 Awards & Recognitions
+
+### 🎖️ ACE Award - Azentio
+![ACE Award](https://github.com/mrrajeshkannan/YOUR_REPO/blob/main/path/to/image.png)
+
+
+## 📜 HackerRank Certification  [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">
   
-[🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e)
 
 
-
+SQL ETL Expert | Transforming Data into Insights with Precision 🚀
 
 I specialize in building scalable data pipelines, 
 
