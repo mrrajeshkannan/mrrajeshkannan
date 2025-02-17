@@ -10,8 +10,11 @@
 
 ## 🏆 Awards & Recognitions
 
+[🔗 View Certificate]([https://www.hackerrank.com/certificates/d61b2f78514e](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb) <img src="[https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb)" width="100" height="80">
+
 ### 🎖️ ACE Award - Azentio
 ![ACE Award](https://github.com/mrrajeshkannan/YOUR_REPO/blob/main/path/to/image.png)
+![Rajeshkannan S-Azentio-ACE-Award_pages-to-jpg-0001](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb)
 
 
 ## 📜 HackerRank Certification  [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">
