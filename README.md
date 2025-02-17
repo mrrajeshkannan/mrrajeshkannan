@@ -8,10 +8,13 @@
 
 🚀 Welcome to my GitHub! 
 
-Highly skilled in SQL ETL
+SQL ETL Expert | Transforming Data into Insights with Precision 🚀
 ## 📜 HackerRank Certification  
-![HackerRank SQL Certificate](certifications/hackerrank_sql.png)  
+![image](https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da)
+  
 [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e)
+
+
 
 
 I specialize in building scalable data pipelines, 
