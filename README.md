@@ -6,16 +6,11 @@
 
 ###
 
-🚀 Welcome to my GitHub! 
+🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
 
 ## 🏆 Awards & Recognitions
 
-[🔗 View Certificate]([https://www.hackerrank.com/certificates/d61b2f78514e](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb) <img src="[https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb)" width="100" height="80">
-
-### 🎖️ ACE Award - Azentio
-![ACE Award](https://github.com/mrrajeshkannan/YOUR_REPO/blob/main/path/to/image.png)
-![Rajeshkannan S-Azentio-ACE-Award_pages-to-jpg-0001](https://github.com/user-attachments/assets/6c3252b0-540a-4ff8-a7c5-788f56f82beb)
-
+### 🎖️ ACE Award - Azentio [🔗 View Certificate](https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9)<img src="https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9" width="100" height="80">
 
 ## 📜 HackerRank Certification  [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">
   
@@ -29,11 +24,10 @@ optimizing ETL workflows, and leveraging cloud technologies for efficient data m
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages**: SQL, Python, Shell Scripting  
-- **Databases**: PostgreSQL, MySQL, Snowflake, BigQuery, Oracle  
-- **ETL Tools**: Apache Airflow, DBT, Informatica  
-- **Big Data**: Spark, Hadoop, Kafka  
-- **Cloud Platforms**: AWS (S3, Redshift, Glue, Lambda), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse)  
+- **Languages**: SQL, Python, PySpark, Shell Scripting  
+- **Databases**: Oracle PL/SQL, PostgreSQL, MySQL, Snowflake, BigQuery. 
+- **ETL Tools**: Apache Airflow, DBT,Databricks  
+- **Cloud Platforms**: AWS (S3, Redshift, Glue, Lambda), GCP (BigQuery, Dataflow), Azure (Data Factory, Synapse, Databricks)  
 - **Version Control**: Git, GitHub, Bitbucket  
 - **Containerization**: Docker, Kubernetes  
 
