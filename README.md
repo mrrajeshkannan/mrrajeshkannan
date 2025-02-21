@@ -1,6 +1,6 @@
 ###
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-<h1 align="left">My name is Rajeshkannan <br> <br> I’m a Data Engineer 🔭</h1>
+<h1 align="left">My name is Rajeshkannan <br> <br> I’m a Data Engineer 💾🔢🛠️</h1>
 
 <h2 align="left">About me</h2>
 
