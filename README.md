@@ -1,6 +1,6 @@
 ###
-
-<h1><p align="left">My name is Rajeshkannan and  🔭  I’m a Data Engineer</p></h1>
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<h1><p align="left">My name is Rajeshkannan and  🔭  I’m a Data Engineer</p></h1> 
 
 <h2 align="left">About me</h2>
 
