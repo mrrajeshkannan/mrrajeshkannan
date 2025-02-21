@@ -1,10 +1,8 @@
 ###
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-<h1><p align="left">My name is Rajeshkannan and  🔭  I’m a Data Engineer</p></h1> 
+<h1 align="left">My name is Rajeshkannan <br> <br> I’m a Data Engineer 🔭</h1>
 
 <h2 align="left">About me</h2>
-
-###
 
 🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
 
