@@ -6,19 +6,18 @@
 
 🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
 
+SQL ETL Expert, Transforming Data into Insights with Precision 🚀
+
+Skilled in diagnosing and resolving challenges in large-scale data operations.
+
+optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
+
 ## 🏆 Awards & Recognitions
 
 ### 🎖️ ACE Award - Azentio (previous org) [🔗 View Certificate](https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9)<img src="https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9" width="100" height="80">
 
 ## 📜 HackerRank Certification  [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">
   
-
-
-SQL ETL Expert | Transforming Data into Insights with Precision 🚀
-
-I specialize in building scalable data pipelines, 
-
-optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
 
 ## 🛠️ Tech Stack & Skills 
 <p align="left"> 
