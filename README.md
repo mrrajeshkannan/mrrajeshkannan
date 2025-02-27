@@ -6,11 +6,11 @@
 
 🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
 
-SQL ETL Expert, Transforming Data into Insights with Precision 🚀
+➢   SQL ETL Expert, Transforming Data into Insights with Precision.
 
-Skilled in diagnosing and resolving challenges in large-scale data operations.
+➢   Skilled in diagnosing and resolving challenges in large-scale data operations.
 
-optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
+➢  optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
 
 ## 🏆 Awards & Recognitions
 
