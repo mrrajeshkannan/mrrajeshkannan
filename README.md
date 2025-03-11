@@ -16,7 +16,7 @@
 
 ### 🎖️ ACE Award - Azentio (previous org) [🔗 View Certificate](https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9)<img src="https://github.com/user-attachments/assets/68472c92-5628-4387-a09e-78249f2eb1f9" width="100" height="80">
 
-## 📜 HackerRank Certification  [🔗 View Certificate](https://www.hackerrank.com/certificates/d61b2f78514e) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">   [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/mr_rajeshkannan)
+## 📜 HackerRank Certification  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/mr_rajeshkannan) <img src="https://github.com/user-attachments/assets/df31c3c4-0553-418a-be3e-6507e82fd8da" width="100" height="80">  
 
 
 
