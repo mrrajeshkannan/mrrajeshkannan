@@ -6,6 +6,8 @@
 
 🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
 
+➢   Open to work in #PL/SQL, #DataEngineering, #data analyst, # business intelligence, #SQL,  #DWH,  #large-volume data, #Snowflake,  #Python.
+
 ➢   SQL ETL Expert, Transforming Data into Insights with Precision.
 
 ➢   Skilled in diagnosing and resolving challenges in large-scale data operations.
