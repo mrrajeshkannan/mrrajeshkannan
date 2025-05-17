@@ -8,11 +8,19 @@
 
 ➢   Open to work in #PL/SQL, #DataEngineering, #data analyst, # business intelligence, #SQL,  #DWH,  #large-volume data, #Snowflake,  #Python.
 
-➢   SQL ETL Expert, Transforming Data into Insights with Precision.
+• Spearheaded end-to-end design and execution of data build and ETL processes, ensuring seamless, reliable data transfer from OLTP systems to OLAP data warehouses for high-performance analytics and reporting.
 
-➢   Skilled in diagnosing and resolving challenges in large-scale data operations.
+• Recognized and awarded by both client and management for optimizing large-scale data operations by significantly reducing data errors and improving time efficiency through effective problem-solving and process enhancements.
 
-➢  optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
+• highly Skilled in writing and optimizing SQL queries for enhanced performance and efficient data retrieval.
+
+• Skilled in automated data extraction and Report email notification with PLSQL and Python.
+
+•  SQL ETL Expert, Transforming Data into Insights with Precision.
+
+•  Skilled in diagnosing and resolving challenges in large-scale data operations.
+
+•  optimizing ETL workflows, and leveraging cloud technologies for efficient data management.
 
 ## 🏆 Awards & Recognitions
 
