@@ -4,7 +4,12 @@
 
 <h2 align="left">About me</h2>
 
-🚀 Welcome to my GitHub! I Specialize in collecting or building transactional tables (OLTP) into a centralized working table or data warehouse (OLAP) to support visualization, machine learning, and analytical processes.
+I believe in real contribution over resume perfection.
+
+“We may never find a 100% perfect candidate—and even if we do, they might not give their full effort or may leave the company shortly. Instead, if we find a capable candidate who’s willing to learn your setup and contribute with over 90% effort, they can bring meaningful improvements to the process.”
+
+I’m the second one. I'm eager to learn, adapt, and add long-term value to the teams I work with.
+
 
 ➢   Open to work in #PL/SQL, #DataEngineering, #data analyst, # business intelligence, #SQL,  #DWH,  #large-volume data, #Snowflake,  #Python.
 
