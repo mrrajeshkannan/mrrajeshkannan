@@ -1,14 +1,8 @@
 ###
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-<h1 align="left">My name is Rajeshkannan <br> <br> I’m a PLSQL / Data Engineer 💾🔢🛠️</h1>
+<h1 align="left">My name is Rajeshkannan <br> <br> I’m a PLSQL / Data Engineer / Data Analyst 💾🔢🛠️</h1>
 
 <h2 align="left">About me</h2>
-
-I believe in real contribution over resume perfection.
-
-“We may never find a 100% perfect candidate—and even if we do, they might not give their full effort or may leave the company shortly. Instead, if we find a capable candidate who’s willing to learn your setup and contribute with over 90% effort, they can bring meaningful improvements to the process.”
-
-I’m the second one. I'm eager to learn, adapt, and add long-term value to the teams I work with.
 
 
 ➢   Open to work in #PL/SQL, #DataEngineering, #data analyst, # business intelligence, #SQL,  #DWH,  #large-volume data, #Snowflake,  #Python.
